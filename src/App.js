@@ -17,14 +17,14 @@ function App() {
       <ScrollToTop/>
       <Navb/>
         <Routes>
-          <Route path="/" exact element={<Home/>}/>
+          <Route path="/home" exact element={<Home/>}/>
           <Route path="/education" element={<Education/>}/>
           <Route path="/projects" element={<Projects/>}/>
           <Route path="/contact" element={<Contact/>}/>
       </Routes>
-      {/* <Element name="/">
+      <Element name="home">
           <Home/>
-        </Element> */}
+        </Element>
         <Element name="education">
           <Education />
         </Element>
