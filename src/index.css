@@ -60,11 +60,6 @@ code {
   border-radius: 12px; 
 }
 
-
-
-
-
-
 .projectSec{
   padding:4rem 0; 
 }
@@ -307,13 +302,14 @@ transform: scale(1.05)
     flex-direction: column;
     padding-top:5rem;
     height: 100%;
+    margin: auto;
   }
   .about{
     width:90%;
     border:0;
     /* display: flex; */
     /* justify-content: flex-start; */
-    padding: 1rem;
+    padding: 1rem 0;
     margin: auto;
   }
   .about h2{
@@ -323,10 +319,11 @@ transform: scale(1.05)
     font-size:1.5rem
   }
   .image{
-   height: 300px;
-   width: 250px;
+   height: 250px;
+   width: 200px;
    padding: 0;
    border-radius: 50%;
+   margin-bottom: 1rem;
    background-color: #000000;
 
   }
@@ -401,7 +398,10 @@ transform: scale(1.05)
     padding: 1rem;
   }
   .project{
-    margin:0 3rem;
+    margin:0 0.8rem;
+  }
+  .projectSec h2{
+      font-size: 2.5rem;
   }
   .navLinksMobile{
     position: absolute;

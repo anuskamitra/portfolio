@@ -74,7 +74,7 @@ import youtbeImage from "./Youtube.jpeg";
 import resumeImage from "./resumebuilder.jpeg";
 import diaryImage from "./PersonalDiary.jpeg"
 import { Navigation, Pagination, Mousewheel, Keyboard } from 'swiper/modules';
-import ProjectThumbNail from '../ProjectThumbNail';
+import ProjectThumbNail from './ProjectThumbNail';
 
 
 
