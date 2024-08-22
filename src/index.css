@@ -144,7 +144,7 @@ img{
   font-size: 1.2rem !important;
 }
 .contact{
-  background-color: rgb(251, 251, 251);
+  background-color: aliceblue;
   padding: 4rem 0;
   margin: 3rem 10rem;
   margin-top: 2rem;
@@ -190,7 +190,7 @@ transform: scale(1.05)
 .education{
   margin:7rem 8rem 4rem 8rem ;
   /* margin: 4rem; */
-  background-color: beige;
+  background-color: aliceblue;
   color:rgb(8, 1, 14);
   padding: 1rem;
   border-radius: 12px; 
@@ -214,7 +214,7 @@ transform: scale(1.05)
 }
 .skills{
   margin:4rem;
-  background-color: rgb(248, 244, 244);
+  background-color:aliceblue;
   color:black;
   font-style: initial;
   border-radius: 12px;
